@@ -1,4 +1,4 @@
-# ML Assignment - NumPy and Pandas
+# ML Programs - NumPy and Pandas
 
 This repository contains the complete solution for **ML Assignment 1**, which focuses on using **NumPy** and **Pandas** to perform a wide range of operations related to:
 
